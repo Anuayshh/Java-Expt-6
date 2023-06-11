@@ -1,9 +1,9 @@
 # Java-Expt-6
 # Method Creation
-#Aim:
+# Aim:
 To write a Java program to create a method to calculate power of a number raised to other.
 
-#Algorithm
+# Algorithm
 Step 1 : Open Intelli J application or any other code editor.
 
 Step 2 : Create a class called "Power" and create a method.
@@ -14,7 +14,7 @@ Step 4 : Calll the method from the Power class in Solution.
 
 Step 5 : Display the result using Solution Class in the terminal.
 
-#Program
+# Program
 
 import java.util.Scanner;<br>
 class Power {<br>
